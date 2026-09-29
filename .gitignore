@@ -1,0 +1,25 @@
+# Interne Arbeitsunterlagen. Diese Dateien gehören nicht zur Website
+# und werden deshalb nicht mit veroeffentlicht.
+# Veroeffentlicht werden ausschliesslich: index.html, README.md, css/, js/, assets/
+
+# Originalfotos der Kameras (unbearbeitet, mehrere MB je Datei)
+/Fotos */
+/Fotos*/
+
+# Workshopmaterial und Notizen, die nicht in der Website stecken
+/Inspirationsdusche/
+/Workshop/
+/Neuer Ordner (2)/
+/Neuer Ordner (3)/
+
+# Arbeitsdokumente
+*.docx
+/Interview.pdf
+
+# Doppelte der Dateien, die bereits unter assets/dokumente/ liegen
+/Zusammenarbeit  *.pdf
+
+# Systemdateien
+Thumbs.db
+.DS_Store
+desktop.ini
