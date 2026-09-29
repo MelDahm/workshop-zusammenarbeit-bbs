@@ -1,5 +1,8 @@
 # Zusammenarbeit gemeinsam wirksam gestalten
 
+**Live:** https://meldahm.github.io/workshop-zusammenarbeit-bbs/
+**Repository:** https://github.com/MelDahm/workshop-zusammenarbeit-bbs
+
 Ergebnisdokumentation des Workshops mit den Bildungsgang- und Fachteamleitungen der
 Otto-Bennemann-Schule zum Thema Zusammenarbeit.
 
